@@ -1,3 +1,4 @@
-##  react-button-handler
+##  react-button-handler#
 
-## Manual setup a react environment using Webpack, Babel , ES6
+## Manual setup a react environment using Webpack, Babel , ES
+npm install ,npm start  with webpack-dev-server on http://localhost:8080
